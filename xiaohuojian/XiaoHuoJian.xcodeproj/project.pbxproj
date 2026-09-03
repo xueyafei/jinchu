@@ -1,0 +1,1063 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+		20C9F01D8FE2202764807228 = {
+			isa = PBXBuildFile;
+			fileRef = E4B482665D2D7A567E4C1D82;
+		};
+		2507F6EBB7E038A2F35DB131 = {
+			isa = PBXBuildFile;
+			fileRef = AB1B9579034FBA43A325EEE7;
+		};
+		9F0EA476A07A8EEC7A834E72 = {
+			isa = PBXBuildFile;
+			fileRef = 411C47A9ECBC19DDD8DCEF9B;
+		};
+		9B8EC3829C118A3120531C1A = {
+			isa = PBXBuildFile;
+			fileRef = 6E090D6CCBC761014A3CD8FD;
+		};
+		358E67A7830CC712F8880594 = {
+			isa = PBXBuildFile;
+			fileRef = 4A8D4E1A2C712303596B34CB;
+		};
+		10003ABA0C81756A12C279DC = {
+			isa = PBXBuildFile;
+			fileRef = C2D3BAFE28619CAAE33BF0D6;
+		};
+		031FB5037C7C8B6219029721 = {
+			isa = PBXBuildFile;
+			fileRef = E6E20D1E321FD70C6652B15D;
+		};
+		9EA836C1410D6FC85302F95E = {
+			isa = PBXBuildFile;
+			fileRef = C807A6D0CF6EDF4936C5C994;
+		};
+		579DB3A4646DD84E393CF49E = {
+			isa = PBXBuildFile;
+			fileRef = 9FFB7253F4CB811A7A680892;
+		};
+		1BA4F3EFC1418D7B3C1DD4F6 = {
+			isa = PBXBuildFile;
+			fileRef = CBEEAD6519A9AB9882FFEFC9;
+		};
+		3F38FCC8DEC01130B97FAAC4 = {
+			isa = PBXBuildFile;
+			fileRef = DF4A244DD46A388562215E44;
+		};
+		C091BBEECCCFA1A791B327DF = {
+			isa = PBXBuildFile;
+			fileRef = 8854324F62F6515775FB7DAD;
+		};
+		9FC4D8416E5142C4D3FFB1D9 = {
+			isa = PBXBuildFile;
+			fileRef = 45009119B230E2A001C02163;
+		};
+		CA04BEFAB8C44DC8EB209F4F = {
+			isa = PBXBuildFile;
+			fileRef = C9DA85522722FAAB03AB1892;
+		};
+		9AA1147C3E75FE7C5985A7D7 = {
+			isa = PBXBuildFile;
+			fileRef = 477D84031E724D68856F37FB;
+		};
+		A03F40014EE62839E0A9275D = {
+			isa = PBXBuildFile;
+			fileRef = 2AEA30B9DD47AC6FB9728172;
+		};
+		3F8356AD3298E2788E6813A1 = {
+			isa = PBXBuildFile;
+			fileRef = F2FF2DE6E68901C35960BA31;
+		};
+		5886B595DBD6679B7BA10171 = {
+			isa = PBXBuildFile;
+			fileRef = 90A83C261406965C67F15530;
+		};
+		51DBAD180DBEC725FBC084DC = {
+			isa = PBXBuildFile;
+			fileRef = 94F335EF5395021ED9CF4ACB;
+		};
+		9E1A91C5C7596EDBDD1BA35D = {
+			isa = PBXBuildFile;
+			fileRef = 09AA2720F0CEBB4DAC14B1F4;
+		};
+		5AA7CCB20D21D6BDEFC79D74 = {
+			isa = PBXBuildFile;
+			fileRef = 0DB75AFF93E994DB70A46DBA;
+		};
+		4989BB4A407FAA6901A0A013 = {
+			isa = PBXBuildFile;
+			fileRef = EF8AC03742160A4EE5F697DC;
+		};
+		C059691C50A3FEDD449376EE = {
+			isa = PBXBuildFile;
+			fileRef = 8530E3505C8C7A295016B658;
+		};
+		57263890C28D1FF065B3D15F = {
+			isa = PBXBuildFile;
+			fileRef = F98D28B45F67E4C21A46BC28;
+		};
+		6E995F28A10C5A1BBFEAB698 = {
+			isa = PBXBuildFile;
+			fileRef = 49B57DBEAF3F1D1EE4BB09D4;
+		};
+		5BF06A942C6F91ED78EF320F = {
+			isa = PBXBuildFile;
+			fileRef = 1CBCCF8572BFA204D2FC01BA;
+		};
+		F119ADE78A21B72CCAFB2F7C = {
+			isa = PBXBuildFile;
+			fileRef = F9F49D60FD0C2ABE50E4DF88;
+		};
+		950019C004871B0292411635 = {
+			isa = PBXBuildFile;
+			fileRef = CAEB8D01B63CEF890C8B9539;
+		};
+		92E0A3B0F87570870486B659 = {
+			isa = PBXBuildFile;
+			fileRef = 6914473C8F0C2487EA8B18C0;
+		};
+		9E571D01F09FCB86338E3858 = {
+			isa = PBXBuildFile;
+			fileRef = F90B9D7D35AE0164546A6E30;
+		};
+		E6E3FC77B2EF67680909BA67 = {
+			isa = PBXBuildFile;
+			fileRef = EE8812950CF3B0F473C4A522;
+		};
+		99E4CDA4C5A9090E1D9231FD = {
+			isa = PBXBuildFile;
+			fileRef = CDBA2F3C7365AC94DAEDABB1;
+		};
+		87C483176F581E1EAB486179 = {
+			isa = PBXBuildFile;
+			fileRef = 01CC43CA2F90ADC975B86008;
+		};
+		05DEC68BB8E060470F11F08A = {
+			isa = PBXBuildFile;
+			fileRef = B689713B3F54BC68F19E8BBD;
+		};
+		17F85820208F8245A535E2AF = {
+			isa = PBXBuildFile;
+			fileRef = FF596E5E689DF48097B9C179;
+		};
+		95FF9A7D0028988CC6E6EE2B = {
+			isa = PBXBuildFile;
+			fileRef = 090CAEB51EED23840180A52E;
+		};
+		DF3A154F8AF98EE42A837FAD = {
+			isa = PBXBuildFile;
+			fileRef = EC1A90B153BD672DC3FE2DBC;
+		};
+		8AD4EC9EDE4CABACB4691586 = {
+			isa = PBXBuildFile;
+			fileRef = BEB35C7A2BA3FB81A8D7BC76;
+		};
+		F30EE8B60BE55849473ED4C2 = {
+			isa = PBXBuildFile;
+			fileRef = 18111C3B6F6617E12D39FF77;
+		};
+		8D5DC5AABD8118F62689C2AF = {
+			isa = PBXBuildFile;
+			fileRef = 773C0A2EFFF13AA8F92F3E31;
+		};
+		656BEE578D8DBA6415BCF06F = {
+			isa = PBXBuildFile;
+			fileRef = 6C7D2629CF92A37EF06A871E;
+		};
+		11D4A328D5B503077348B699 = {
+			isa = PBXBuildFile;
+			fileRef = 09AA2720F0CEBB4DAC14B1F4;
+		};
+		845375D248738FBAD0119398 = {
+			isa = PBXBuildFile;
+			fileRef = 0DB75AFF93E994DB70A46DBA;
+		};
+		85A0BF68DC55462EFF6DBA8A = {
+			isa = PBXBuildFile;
+			fileRef = EF8AC03742160A4EE5F697DC;
+		};
+		06108DED9362A6EE136D4CA4 = {
+			isa = PBXBuildFile;
+			fileRef = 8530E3505C8C7A295016B658;
+		};
+		48850E69F9D21DE52A940561 = {
+			isa = PBXBuildFile;
+			fileRef = F98D28B45F67E4C21A46BC28;
+		};
+		57EACBC74B7915468EB7A5BC = {
+			isa = PBXBuildFile;
+			fileRef = 49B57DBEAF3F1D1EE4BB09D4;
+		};
+		6AB2BF21E37E66942E732EC2 = {
+			isa = PBXBuildFile;
+			fileRef = 1CBCCF8572BFA204D2FC01BA;
+		};
+		9FA876E84BB2B912F432B98E = {
+			isa = PBXBuildFile;
+			fileRef = F9F49D60FD0C2ABE50E4DF88;
+		};
+		296C31A0596D76F181847CC8 = {
+			isa = PBXBuildFile;
+			fileRef = 2D267DFD175221F86B468720;
+		};
+		9CBE362A35BF59B9A4BE37D9 = {
+			isa = PBXBuildFile;
+			fileRef = AB9B760B770DE2219A4E6102;
+		};
+		F90B4C9AF37A6F2176FCDE15 = {
+			isa = PBXBuildFile;
+			fileRef = 62A42A7DAC4D5F97F3ACD299;
+			settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); };
+		};
+		E8ECEF773D1E07140C1E49C5 = {
+			isa = PBXBuildFile;
+			fileRef = 3625A3CF982E9EFA1FAB77E9;
+		};
+		D3C0F36394D02EFB1A171C93 = {
+			isa = PBXBuildFile;
+			fileRef = 3625A3CF982E9EFA1FAB77E9;
+		};
+		E4B482665D2D7A567E4C1D82 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ContentView.swift";
+			sourceTree = "<group>";
+		};
+		AB1B9579034FBA43A325EEE7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "LatencyTester.swift";
+			sourceTree = "<group>";
+		};
+		411C47A9ECBC19DDD8DCEF9B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "StoreViewModel.swift";
+			sourceTree = "<group>";
+		};
+		6E090D6CCBC761014A3CD8FD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "Theme.swift";
+			sourceTree = "<group>";
+		};
+		4A8D4E1A2C712303596B34CB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "VPNManager.swift";
+			sourceTree = "<group>";
+		};
+		C2D3BAFE28619CAAE33BF0D6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "BackupView.swift";
+			sourceTree = "<group>";
+		};
+		E6E20D1E321FD70C6652B15D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ConfigView.swift";
+			sourceTree = "<group>";
+		};
+		C807A6D0CF6EDF4936C5C994 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ConnectModeView.swift";
+			sourceTree = "<group>";
+		};
+		9FFB7253F4CB811A7A680892 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "DNSView.swift";
+			sourceTree = "<group>";
+		};
+		CBEEAD6519A9AB9882FFEFC9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "DataView.swift";
+			sourceTree = "<group>";
+		};
+		DF4A244DD46A388562215E44 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "HomeView.swift";
+			sourceTree = "<group>";
+		};
+		8854324F62F6515775FB7DAD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "LatencyBadge.swift";
+			sourceTree = "<group>";
+		};
+		45009119B230E2A001C02163 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "NodeEditView.swift";
+			sourceTree = "<group>";
+		};
+		C9DA85522722FAAB03AB1892 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "NodeListView.swift";
+			sourceTree = "<group>";
+		};
+		477D84031E724D68856F37FB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "NodePickerView.swift";
+			sourceTree = "<group>";
+		};
+		2AEA30B9DD47AC6FB9728172 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "RulesView.swift";
+			sourceTree = "<group>";
+		};
+		F2FF2DE6E68901C35960BA31 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SettingsView.swift";
+			sourceTree = "<group>";
+		};
+		90A83C261406965C67F15530 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SubscribeView.swift";
+			sourceTree = "<group>";
+		};
+		94F335EF5395021ED9CF4ACB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "XiaoHuoJianApp.swift";
+			sourceTree = "<group>";
+		};
+		CAEB8D01B63CEF890C8B9539 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ByteStream.swift";
+			sourceTree = "<group>";
+		};
+		6914473C8F0C2487EA8B18C0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SSCrypto.swift";
+			sourceTree = "<group>";
+		};
+		F90B9D7D35AE0164546A6E30 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "TrojanHash.swift";
+			sourceTree = "<group>";
+		};
+		EE8812950CF3B0F473C4A522 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "IPPacket.swift";
+			sourceTree = "<group>";
+		};
+		CDBA2F3C7365AC94DAEDABB1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "DirectClient.swift";
+			sourceTree = "<group>";
+		};
+		01CC43CA2F90ADC975B86008 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "HTTPProxyClient.swift";
+			sourceTree = "<group>";
+		};
+		B689713B3F54BC68F19E8BBD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "OutboundFactory.swift";
+			sourceTree = "<group>";
+		};
+		FF596E5E689DF48097B9C179 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SOCKS5Client.swift";
+			sourceTree = "<group>";
+		};
+		090CAEB51EED23840180A52E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ShadowsocksClient.swift";
+			sourceTree = "<group>";
+		};
+		EC1A90B153BD672DC3FE2DBC = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "TrojanClient.swift";
+			sourceTree = "<group>";
+		};
+		BEB35C7A2BA3FB81A8D7BC76 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "PacketLoop.swift";
+			sourceTree = "<group>";
+		};
+		18111C3B6F6617E12D39FF77 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "PacketTunnelProvider.swift";
+			sourceTree = "<group>";
+		};
+		773C0A2EFFF13AA8F92F3E31 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "TCPSession.swift";
+			sourceTree = "<group>";
+		};
+		6C7D2629CF92A37EF06A871E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "UDPHandler.swift";
+			sourceTree = "<group>";
+		};
+		09AA2720F0CEBB4DAC14B1F4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SingBoxBuilder.swift";
+			sourceTree = "<group>";
+		};
+		0DB75AFF93E994DB70A46DBA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "Constants.swift";
+			sourceTree = "<group>";
+		};
+		EF8AC03742160A4EE5F697DC = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ProxyNode.swift";
+			sourceTree = "<group>";
+		};
+		8530E3505C8C7A295016B658 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ClashParser.swift";
+			sourceTree = "<group>";
+		};
+		F98D28B45F67E4C21A46BC28 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SubscriptionParser.swift";
+			sourceTree = "<group>";
+		};
+		49B57DBEAF3F1D1EE4BB09D4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "URIParser.swift";
+			sourceTree = "<group>";
+		};
+		1CBCCF8572BFA204D2FC01BA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "RuleEngine.swift";
+			sourceTree = "<group>";
+		};
+		F9F49D60FD0C2ABE50E4DF88 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "AppGroupStore.swift";
+			sourceTree = "<group>";
+		};
+		996A50C5887D8E2743634CB5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			path = "Info.plist";
+			sourceTree = "<group>";
+		};
+		38290990E707B7AC7A3F46FE = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.entitlements;
+			path = "XiaoHuoJian.entitlements";
+			sourceTree = "<group>";
+		};
+		1BBF7E11933AD7688669EB12 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			path = "Info.plist";
+			sourceTree = "<group>";
+		};
+		FB097D24753E38FE594AD87A = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.entitlements;
+			path = "PacketTunnel.entitlements";
+			sourceTree = "<group>";
+		};
+		2D267DFD175221F86B468720 = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			path = "Assets.xcassets";
+			sourceTree = "<group>";
+		};
+		AB9B760B770DE2219A4E6102 = {
+			isa = PBXFileReference;
+			name = "Preview Content";
+			path = "App/Preview Content";
+			sourceTree = "<group>";
+		};
+		ACDB65CB9081CDAD337753C8 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = XiaoHuoJian.app;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		62A42A7DAC4D5F97F3ACD299 = {
+			isa = PBXFileReference;
+			explicitFileType = "wrapper.app-extension";
+			includeInIndex = 0;
+			path = PacketTunnel.appex;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		3625A3CF982E9EFA1FAB77E9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = NetworkExtension.framework;
+			path = System/Library/Frameworks/NetworkExtension.framework;
+			sourceTree = SDKROOT;
+		};
+		9CAAF4875BC012C161A7A32E = {
+			isa = PBXGroup;
+			children = (
+
+			);
+			name = "Preview Content";
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4B23716D143DAC7A430E1198 = {
+			isa = PBXGroup;
+			children = (
+				E4B482665D2D7A567E4C1D82,
+				AB1B9579034FBA43A325EEE7,
+				411C47A9ECBC19DDD8DCEF9B,
+				6E090D6CCBC761014A3CD8FD,
+				4A8D4E1A2C712303596B34CB,
+				94F335EF5395021ED9CF4ACB,
+				996A50C5887D8E2743634CB5,
+				38290990E707B7AC7A3F46FE,
+				2D267DFD175221F86B468720,
+				9CAAF4875BC012C161A7A32E,
+				72D493A5A17663F14E39D4BA,
+			);
+			name = "App";
+			path = "App";
+			sourceTree = "<group>";
+		};
+		72D493A5A17663F14E39D4BA = {
+			isa = PBXGroup;
+			children = (
+				C2D3BAFE28619CAAE33BF0D6,
+				E6E20D1E321FD70C6652B15D,
+				C807A6D0CF6EDF4936C5C994,
+				9FFB7253F4CB811A7A680892,
+				CBEEAD6519A9AB9882FFEFC9,
+				DF4A244DD46A388562215E44,
+				8854324F62F6515775FB7DAD,
+				45009119B230E2A001C02163,
+				C9DA85522722FAAB03AB1892,
+				477D84031E724D68856F37FB,
+				2AEA30B9DD47AC6FB9728172,
+				F2FF2DE6E68901C35960BA31,
+				90A83C261406965C67F15530,
+			);
+			name = "Views";
+			path = "Views";
+			sourceTree = "<group>";
+		};
+		D5CDD10954CF08F088D8C741 = {
+			isa = PBXGroup;
+			children = (
+				CAEB8D01B63CEF890C8B9539,
+				EE8812950CF3B0F473C4A522,
+				BEB35C7A2BA3FB81A8D7BC76,
+				18111C3B6F6617E12D39FF77,
+				773C0A2EFFF13AA8F92F3E31,
+				6C7D2629CF92A37EF06A871E,
+				1BBF7E11933AD7688669EB12,
+				FB097D24753E38FE594AD87A,
+				BB60662932E11307B2027486,
+				C1A086785EB05470FA1A31FC,
+			);
+			name = "PacketTunnel";
+			path = "PacketTunnel";
+			sourceTree = "<group>";
+		};
+		BB60662932E11307B2027486 = {
+			isa = PBXGroup;
+			children = (
+				6914473C8F0C2487EA8B18C0,
+				F90B9D7D35AE0164546A6E30,
+			);
+			name = "Crypto";
+			path = "Crypto";
+			sourceTree = "<group>";
+		};
+		C1A086785EB05470FA1A31FC = {
+			isa = PBXGroup;
+			children = (
+				CDBA2F3C7365AC94DAEDABB1,
+				01CC43CA2F90ADC975B86008,
+				B689713B3F54BC68F19E8BBD,
+				FF596E5E689DF48097B9C179,
+				090CAEB51EED23840180A52E,
+				EC1A90B153BD672DC3FE2DBC,
+			);
+			name = "Outbounds";
+			path = "Outbounds";
+			sourceTree = "<group>";
+		};
+		1BA4A7941E2E1D704BD3B1F9 = {
+			isa = PBXGroup;
+			children = (
+				0DB75AFF93E994DB70A46DBA,
+				B08C1500C5296DC781AB0459,
+				92667B29EB9AFA0D7078BF5E,
+				013791B3F5ABD176F3BAB988,
+				71DA5ABE2663F5F43F2D0D06,
+				BEB0101DA7F287D1DD9E457C,
+			);
+			name = "Shared";
+			path = "Shared";
+			sourceTree = "<group>";
+		};
+		B08C1500C5296DC781AB0459 = {
+			isa = PBXGroup;
+			children = (
+				09AA2720F0CEBB4DAC14B1F4,
+			);
+			name = "Config";
+			path = "Config";
+			sourceTree = "<group>";
+		};
+		92667B29EB9AFA0D7078BF5E = {
+			isa = PBXGroup;
+			children = (
+				EF8AC03742160A4EE5F697DC,
+			);
+			name = "Models";
+			path = "Models";
+			sourceTree = "<group>";
+		};
+		013791B3F5ABD176F3BAB988 = {
+			isa = PBXGroup;
+			children = (
+				8530E3505C8C7A295016B658,
+				F98D28B45F67E4C21A46BC28,
+				49B57DBEAF3F1D1EE4BB09D4,
+			);
+			name = "Parsers";
+			path = "Parsers";
+			sourceTree = "<group>";
+		};
+		71DA5ABE2663F5F43F2D0D06 = {
+			isa = PBXGroup;
+			children = (
+				1CBCCF8572BFA204D2FC01BA,
+			);
+			name = "Rules";
+			path = "Rules";
+			sourceTree = "<group>";
+		};
+		BEB0101DA7F287D1DD9E457C = {
+			isa = PBXGroup;
+			children = (
+				F9F49D60FD0C2ABE50E4DF88,
+			);
+			name = "Storage";
+			path = "Storage";
+			sourceTree = "<group>";
+		};
+		43D6FB3CC9C0D76EFA3DB246 = {
+			isa = PBXGroup;
+			children = (
+				ACDB65CB9081CDAD337753C8,
+				62A42A7DAC4D5F97F3ACD299,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		C18EAACD1855A8383F902BFF = {
+			isa = PBXGroup;
+			children = (
+				3625A3CF982E9EFA1FAB77E9,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		1332B9CFE06D7B5B7C6425FF = {
+			isa = PBXGroup;
+			children = (
+				4B23716D143DAC7A430E1198,
+				D5CDD10954CF08F088D8C741,
+				1BA4A7941E2E1D704BD3B1F9,
+				43D6FB3CC9C0D76EFA3DB246,
+				C18EAACD1855A8383F902BFF,
+			);
+			name = "XiaoHuoJian";
+			sourceTree = "<group>";
+		};
+		C641190C821149BDFBFB1872 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				20C9F01D8FE2202764807228,
+				2507F6EBB7E038A2F35DB131,
+				9F0EA476A07A8EEC7A834E72,
+				9B8EC3829C118A3120531C1A,
+				358E67A7830CC712F8880594,
+				10003ABA0C81756A12C279DC,
+				031FB5037C7C8B6219029721,
+				9EA836C1410D6FC85302F95E,
+				579DB3A4646DD84E393CF49E,
+				1BA4F3EFC1418D7B3C1DD4F6,
+				3F38FCC8DEC01130B97FAAC4,
+				C091BBEECCCFA1A791B327DF,
+				9FC4D8416E5142C4D3FFB1D9,
+				CA04BEFAB8C44DC8EB209F4F,
+				9AA1147C3E75FE7C5985A7D7,
+				A03F40014EE62839E0A9275D,
+				3F8356AD3298E2788E6813A1,
+				5886B595DBD6679B7BA10171,
+				51DBAD180DBEC725FBC084DC,
+				9E1A91C5C7596EDBDD1BA35D,
+				5AA7CCB20D21D6BDEFC79D74,
+				4989BB4A407FAA6901A0A013,
+				C059691C50A3FEDD449376EE,
+				57263890C28D1FF065B3D15F,
+				6E995F28A10C5A1BBFEAB698,
+				5BF06A942C6F91ED78EF320F,
+				F119ADE78A21B72CCAFB2F7C,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED5E5B0C23254D2DAAB3EED1 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				950019C004871B0292411635,
+				92E0A3B0F87570870486B659,
+				9E571D01F09FCB86338E3858,
+				E6E3FC77B2EF67680909BA67,
+				99E4CDA4C5A9090E1D9231FD,
+				87C483176F581E1EAB486179,
+				05DEC68BB8E060470F11F08A,
+				17F85820208F8245A535E2AF,
+				95FF9A7D0028988CC6E6EE2B,
+				DF3A154F8AF98EE42A837FAD,
+				8AD4EC9EDE4CABACB4691586,
+				F30EE8B60BE55849473ED4C2,
+				8D5DC5AABD8118F62689C2AF,
+				656BEE578D8DBA6415BCF06F,
+				11D4A328D5B503077348B699,
+				845375D248738FBAD0119398,
+				85A0BF68DC55462EFF6DBA8A,
+				06108DED9362A6EE136D4CA4,
+				48850E69F9D21DE52A940561,
+				57EACBC74B7915468EB7A5BC,
+				6AB2BF21E37E66942E732EC2,
+				9FA876E84BB2B912F432B98E,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8BF4D09FE0595E6006ED8021 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				296C31A0596D76F181847CC8,
+				9CBE362A35BF59B9A4BE37D9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5232757EB8F5EDE39348E0C7 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DAA5D1EF3F3684DF70DF9E6C = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E8ECEF773D1E07140C1E49C5,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ACF8EA5E9A5D32D591988239 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3C0F36394D02EFB1A171C93,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D38C8592B741FED61796F247 = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				F90B4C9AF37A6F2176FCDE15,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		36236C34049B35C442E60821 = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 614EA01AD49247896C3A2016;
+			proxyType = 1;
+			remoteGlobalIDString = 9206CE1352971EA6EF4D9A6A;
+			remoteInfo = PacketTunnel;
+		};
+		547D7579F37F7421E023C5B0 = {
+			isa = PBXTargetDependency;
+			target = 9206CE1352971EA6EF4D9A6A;
+			targetProxy = 36236C34049B35C442E60821;
+		};
+		D50F8AA5FA66965ECE5D96C1 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7DFC658610F50C9BFB6A8EB3;
+			buildPhases = (
+				C641190C821149BDFBFB1872,
+				DAA5D1EF3F3684DF70DF9E6C,
+				8BF4D09FE0595E6006ED8021,
+				D38C8592B741FED61796F247,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				547D7579F37F7421E023C5B0,
+			);
+			name = XiaoHuoJian;
+			productName = XiaoHuoJian;
+			productReference = ACDB65CB9081CDAD337753C8;
+			productType = "com.apple.product-type.application";
+		};
+		9206CE1352971EA6EF4D9A6A = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41ECB51C2CE389BB6F19ECA8;
+			buildPhases = (
+				ED5E5B0C23254D2DAAB3EED1,
+				ACF8EA5E9A5D32D591988239,
+				5232757EB8F5EDE39348E0C7,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PacketTunnel;
+			productName = PacketTunnel;
+			productReference = 62A42A7DAC4D5F97F3ACD299;
+			productType = "com.apple.product-type.app-extension";
+		};
+		614EA01AD49247896C3A2016 = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					D50F8AA5FA66965ECE5D96C1 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					9206CE1352971EA6EF4D9A6A = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 0F5FB8FD49C2AD4166F11764;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hans",
+			);
+			mainGroup = 1332B9CFE06D7B5B7C6425FF;
+			productRefGroup = 43D6FB3CC9C0D76EFA3DB246;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D50F8AA5FA66965ECE5D96C1,
+				9206CE1352971EA6EF4D9A6A,
+			);
+		};
+		3E465AB1D4A33E0C76CDB820 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6D53AC0D84291EC2BCBFB1A9 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1D3DF1EB45A7AC4F4A89B801 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = App/XiaoHuoJian.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = App/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "小火箭";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.xiaohuojian.vpn;
+				PRODUCT_NAME = XiaoHuoJian;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		690C7CE44F45BFC6FA31E6E8 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = App/XiaoHuoJian.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = App/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "小火箭";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.xiaohuojian.vpn;
+				PRODUCT_NAME = XiaoHuoJian;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		11187D3302D416F104FC461B = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+				CODE_SIGN_ENTITLEMENTS = PacketTunnel/PacketTunnel.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PacketTunnel/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.xiaohuojian.vpn.tunnel;
+				PRODUCT_NAME = PacketTunnel;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		B36210E2DA108751606F6285 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+				CODE_SIGN_ENTITLEMENTS = PacketTunnel/PacketTunnel.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PacketTunnel/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.xiaohuojian.vpn.tunnel;
+				PRODUCT_NAME = PacketTunnel;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		0F5FB8FD49C2AD4166F11764 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E465AB1D4A33E0C76CDB820,
+				6D53AC0D84291EC2BCBFB1A9,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7DFC658610F50C9BFB6A8EB3 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D3DF1EB45A7AC4F4A89B801,
+				690C7CE44F45BFC6FA31E6E8,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41ECB51C2CE389BB6F19ECA8 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11187D3302D416F104FC461B,
+				B36210E2DA108751606F6285,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+	};
+	rootObject = 614EA01AD49247896C3A2016;
+}

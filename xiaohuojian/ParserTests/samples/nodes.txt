@@ -1,0 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc3NlY3JldEBzcy5leGFtcGxlLnRlc3Q6ODM4OA==#sample-ss-legacy
+ss://YWVzLTI1Ni1nY206c2lwMDAycGFzcw==@ss2.example.test:443#sample-ss-sip002
+vmess://eyJ2IjoiMiIsInBzIjoic2FtcGxlLXZtZXNzIiwiYWRkIjoidm1lc3MuZXhhbXBsZS50ZXN0IiwicG9ydCI6IjQ0MyIsImlkIjoiNTUwZTg0MDAtZTI5Yi00MWQ0LWE3MTYtNDQ2NjU1NDQwMDAwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoidm1lc3MuZXhhbXBsZS50ZXN0In0=
+vless://aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee@vless.example.test:443?type=tcp&security=tls&sni=vless.example.test&encryption=none#sample-vless
+trojan://trojanpass@trojan.example.test:443?sni=trojan.example.test#sample-trojan
+hysteria2://hy2pass@hy2.example.test:443?sni=hy2.example.test&insecure=0#sample-hy2
+hy2://hy2alias@hy2b.example.test:8443?insecure=1#sample-hy2-alias
+socks5://user:pass@socks.example.test:1080#sample-socks
+http://user:pass@http.example.test:8080#sample-http
